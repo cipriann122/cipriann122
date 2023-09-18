@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/cipriann122" target="blank"><img src="https://img.shields.io/twitter/follow/cipriann122?logo=twitter&style=for-the-badge" alt="cipriann122" /></a> </p>
 
-- 🌱 I’m currently learning **The Odin Project**
+- 🌱 I’m currently taking **The Odin Project** and **CS50p** courses.
 
 - 👨‍💻 All of my projects are available at [www.cipriangombar.com](www.cipriangombar.com)
 
